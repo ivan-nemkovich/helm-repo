@@ -9,7 +9,7 @@ entries:
     name: jenkins
     type: application
     urls:
-    - https://github.io/ivan-nemkovich/helm-repo/jenkins/jenkins-0.1.0.tgz
+    - https://ivan-nemkovich.github.io/helm-repo/jenkins/jenkins-0.1.0.tgz
     version: 0.1.0
 #  - apiVersion: v2
 #    appVersion: 1.16.0
