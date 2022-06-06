@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: jfrog.it-academy.by/public/jenkins-ci:inemkovich
+  repository: jfrog.it-academy.by/public/jenkins-ci
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "inemkovich"
