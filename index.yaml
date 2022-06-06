@@ -3,7 +3,17 @@ entries:
   jenkins:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-06T14:14:21.311720622+03:00"
+    created: "2022-06-06T14:19:04.595504259+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 13684926541b556bc2d5ffc83e79b45ebbdc3649de0343668c135916e4f6e41f
+    name: jenkins
+    type: application
+    urls:
+    - https://ivan-nemkovich.github.io/helm-repo/jenkins/jenkins-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-06T14:19:04.593853936+03:00"
     description: A Helm chart for Kubernetes
     digest: 7f552fb9bc13c252c95d294102818a6ee44a1366713a6873743c06bf6ca90fe3
     name: jenkins
@@ -13,7 +23,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-06T14:14:21.310086253+03:00"
+    created: "2022-06-06T14:19:04.592319055+03:00"
     description: A Helm chart for Kubernetes
     digest: 69242b6f99c1a2ddbbad02aa959a4ec3b173d9206367ba9d9431cdc73e4edff9
     name: jenkins
@@ -23,7 +33,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-06T14:14:21.308462756+03:00"
+    created: "2022-06-06T14:19:04.590501733+03:00"
     description: A Helm chart for Kubernetes
     digest: 210eda55d995263e55d100d4fbc70c3bff34b3f34a641738e34adf3539c1261d
     name: jenkins
@@ -33,7 +43,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2022-06-06T14:14:21.306780653+03:00"
+    created: "2022-06-06T14:19:04.58967281+03:00"
     description: A Helm chart for Kubernetes
     digest: 5778c6eae019a883d4f48732f24e4a40cea3822023f17e4e46026a46ffc12c7b
     name: jenkins
@@ -43,7 +53,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2022-06-06T14:14:21.305048888+03:00"
+    created: "2022-06-06T14:19:04.584819396+03:00"
     description: A Helm chart for Kubernetes
     digest: b95cb37287644268dda95283dcb77da384b5169b0a7da6811be308dd3cfb953e
     name: jenkins
@@ -53,7 +63,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-06T14:14:21.303256052+03:00"
+    created: "2022-06-06T14:19:04.583046963+03:00"
     description: A Helm chart for Kubernetes
     digest: f061a5697020ef7849d56c9a6c85ec283eb7b1539597d59ce0cd49c779e91dc0
     name: jenkins
@@ -63,7 +73,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-06T14:14:21.313400685+03:00"
+    created: "2022-06-06T14:19:04.597247505+03:00"
     description: A Helm chart for Kubernetes
     digest: 8c49c4bcd7fc4a025e28824755cd3909d0a8200700c3c93daf97c2bdfd89961d
     name: jenkins
@@ -71,4 +81,4 @@ entries:
     urls:
     - https://ivan-nemkovich.github.io/helm-repo/test-app/jenkins-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-06T14:14:21.301183034+03:00"
+generated: "2022-06-06T14:19:04.581163259+03:00"
